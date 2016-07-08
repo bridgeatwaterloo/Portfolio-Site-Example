@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(255, 0, 0);font-family: "Helvetica";
+}
+
+
+p {
+  color: blue;
+  font-size: 120%;
+  font-weight: bold;
+}
+
+
+.prominent {
+  font-size: 120%;
+  font-weight: bold;
+}
+
+
+.profile-pic {
+  width: 50%;
+}
+

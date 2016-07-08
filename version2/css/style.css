@@ -1,0 +1,69 @@
+body {
+  background-image: url(../img/hubble.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header, section, footer {
+  padding: 1em;
+}
+
+header {
+  background-color: rgba(229,229,229,0.6);
+  padding: 2em;
+  text-align: center;
+}
+
+section {
+  background-color: rgba(0, 255, 255, 1);
+}
+
+img {
+  max-width: 100%;
+}
+
+.profile-picture {
+  display: block;
+  margin: auto;
+}
+
+footer {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+}
+
+
+
+
+
+
+/* Target all links */
+a {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+/* Get hovered links */
+a:hover {
+  text-decoration: underline;
+}
+
+/* Get links inside something with a class of "contact-list" */
+.contact-list a {
+  font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
